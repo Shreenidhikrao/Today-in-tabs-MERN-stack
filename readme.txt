@@ -2,6 +2,7 @@ First step is to create react app :
 npx create-react-app my-app
 cd my-app
 npm start
+After this extract the files.
 
 
 Installing necessary tools : 
