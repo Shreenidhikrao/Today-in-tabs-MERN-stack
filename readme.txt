@@ -4,7 +4,7 @@ cd my-app
 npm start
 
 
-Needed tools : 
+Installing necessary tools : 
 sudo apt install node
 sudo apt install npm 
 npm install express
