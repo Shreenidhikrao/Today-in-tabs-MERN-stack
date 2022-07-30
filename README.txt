@@ -1,5 +1,5 @@
 Installing necessary tools : 
-sudo apt install node
+sudo apt install nodejs
 sudo apt install npm 
 npm install express
 npm install body-parser
