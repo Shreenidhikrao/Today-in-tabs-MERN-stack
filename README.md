@@ -31,6 +31,4 @@ The project allows users to create and manage events on the Ethereum blockchain.
 - Show collections in the `gfg` database: `show collections`
 - View the data stored in the `details` collection: `db.details.find().pretty()`
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
